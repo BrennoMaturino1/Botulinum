@@ -1,8 +1,8 @@
 # Botulinum
 My first malware
 # Things it does
-Corrupt all files  [V]
-Override MBR       [V]
-Graphical payloads [V]
-Horrible sounds    [V]
-Make a pizza       [X]
+Corrupt all files  [V] <br />
+Override MBR       [V] <br />
+Graphical payloads [V] <br />
+Horrible sounds    [V] <br />
+Make a pizza       [X] <br />
