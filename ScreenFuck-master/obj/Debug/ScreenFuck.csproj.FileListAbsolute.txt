@@ -1,9 +1,0 @@
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\bin\Debug\ScreenFuck.exe
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\bin\Debug\ScreenFuck.pdb
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.csproj.AssemblyReference.cache
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.Form1.resources
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.Properties.Resources.resources
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.csproj.GenerateResource.cache
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.csproj.CoreCompileInputs.cache
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.exe
-C:\Users\User 01\Downloads\ScreenFuck-master\ScreenFuck-master\obj\Debug\ScreenFuck.pdb
