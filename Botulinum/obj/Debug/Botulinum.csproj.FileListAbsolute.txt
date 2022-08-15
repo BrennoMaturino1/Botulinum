@@ -1,0 +1,11 @@
+C:\Users\User 01\source\repos\Botulinum\Botulinum\bin\Debug\Botulinum.exe.config
+C:\Users\User 01\source\repos\Botulinum\Botulinum\bin\Debug\Botulinum.exe
+C:\Users\User 01\source\repos\Botulinum\Botulinum\bin\Debug\Botulinum.pdb
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.csproj.AssemblyReference.cache
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.Form1.resources
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.Properties.Resources.resources
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.csproj.GenerateResource.cache
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.csproj.CoreCompileInputs.cache
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.exe
+C:\Users\User 01\source\repos\Botulinum\Botulinum\obj\Debug\Botulinum.pdb
